@@ -1,4 +1,4 @@
-(function() {
+/*(function() {
   'use strict';
 
   describe('controllers', function(){
@@ -36,4 +36,4 @@
       expect(vm.awesomeThings.length === 5).toBeTruthy();
     });
   });
-})();
+})(); */
